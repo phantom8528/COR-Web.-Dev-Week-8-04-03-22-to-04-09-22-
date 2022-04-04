@@ -1,0 +1,9 @@
+-------------------------04/03/22----------------------------
+
+Form Validation:
+
+    Form validation is the process of checking if the data entered by a user is in the correct format. 
+    The form will display error messages if any fields do not pass the validation tests.
+
+    While it is important to validate any information on both the server-side and the client-side, 
+    this lesson will cover some of the ways validation is handled on the client-side.
