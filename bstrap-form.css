@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+}
+
+#display-section{
+    writing-mode: vertical-lr;
+    text-orientation: mixed;
+    font-size:66px;
+}
+
+#display-section, 
+#form-section{
+    border-radius: 10;
+    height: 100vh;
+    width:100;
+}
+
+#display-section{
+    background-color: orange;
+    margin-left: -27px;
+}
+
+#form-section{
+    background-color: black;
+}
+
+#form-section{
+    color: white;
+}
+
+#male-option-label,
+#female-option-label,
+#other-option-label{
+    margin-right: 30px;;
+}
+
+#submit-button{
+    background-color: orange;
+}

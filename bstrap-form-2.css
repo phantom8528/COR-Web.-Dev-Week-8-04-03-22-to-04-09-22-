@@ -1,0 +1,30 @@
+.left-split,
+.right-split,
+.left-layer-one,
+.right-layer-one{
+    height: 100vh;
+    width: 100%;
+}
+
+.left-split{
+    background-image: url(https://eatwithme.net/wp-content/uploads/2020/07/Untitled.png);
+    /* background-repeat: no-repeat; */
+    opacity: 1;
+}
+
+.left-layer-one{
+    background-color: maroon;
+    opacity: 0.6;
+}
+
+
+.right-split{
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tins-of-different-sorts-of-tea-royalty-free-image-1612295368.?crop=1.00xw:0.752xh;0,0.147xh&resize=1200:*);
+    /* background-repeat: no-repeat; */
+
+}
+
+.right-layer-one{
+    background-color: olive;
+    opacity: 0.6;
+}
