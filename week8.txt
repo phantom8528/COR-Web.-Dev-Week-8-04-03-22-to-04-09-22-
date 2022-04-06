@@ -7,3 +7,9 @@ Form Validation:
 
     While it is important to validate any information on both the server-side and the client-side, 
     this lesson will cover some of the ways validation is handled on the client-side.
+
+
+-------------------------04/05/22----------------------------
+-->AJax stands for (Asynchronus Javascript and XML)
+-->A way of retriving data from a server after a webpage is loaded
+-->The process the request runs seperate from the code, which means we have to keep track of 

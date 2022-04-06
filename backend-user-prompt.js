@@ -14,7 +14,8 @@ const prompt = require("prompt-sync") ({sigint: true});
 let input2 = prompt("Type Your Name Again: ");
 console.log(`This is the 2nd Test of ${input2}`);
 
-//Ex.3)
+//Ex.3) REPS
+
 // const prompt = require ("prompt-sync") ({sigint: true});
 
 // const prompt = require("prompt-sync") ({sigint: true});
