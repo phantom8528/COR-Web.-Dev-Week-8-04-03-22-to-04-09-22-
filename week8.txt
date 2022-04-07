@@ -13,3 +13,7 @@ Form Validation:
 -->AJax stands for (Asynchronus Javascript and XML)
 -->A way of retriving data from a server after a webpage is loaded
 -->The process the request runs seperate from the code, which means we have to keep track of 
+
+-------------------------04/06/22----------------------------
+
+
