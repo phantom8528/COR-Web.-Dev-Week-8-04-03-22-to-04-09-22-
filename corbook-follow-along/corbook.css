@@ -1,0 +1,35 @@
+#header{
+    height: 150px;
+    background-color: rgba(0,0,0,0.25);
+}
+
+#hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #354a5a;
+    color: white;
+
+}
+
+#hero h1{
+    color: whitesmoke;
+    font-size: 5rem;
+    font-weight: 100;
+}
+
+#footer{
+    height: 100px;
+    background-color: black;
+}
+
+#logo{
+    max-width: 38%;
+    height: auto;
+}
+
+#see-engineers-btn{
+    background-color: #e87431;
+}
+
