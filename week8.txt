@@ -16,4 +16,21 @@ Form Validation:
 
 -------------------------04/06/22----------------------------
 
+-------------------------04/07/22----------------------------
+
+Homework:
+-->Look at promises in w3Schools
+-->Use code written today to account for rejected test cases
+-->Goal of the Day: Understand promises and there syntax, as well
+as things that return promises.
+-->Look at api fetch in w3Schools
+-->Extra: Loop up method chaining in Javascript
+
+-------------------------04/08/22----------------------------
+
+
+
+
+
+
 
